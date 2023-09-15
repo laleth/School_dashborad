@@ -1,0 +1,76 @@
+.student-data {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .student-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .student-table th, .student-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .student-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .student-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .student-table tr:hover {
+    background-color: #ddd;
+  }
+
+  .Delete-Button{
+    background-color: red;
+  }
+  
+  .record-count-card {
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .record-count-card h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .record-count-card p {
+    font-size: 16px;
+    color: #333;
+  }
+
+  
